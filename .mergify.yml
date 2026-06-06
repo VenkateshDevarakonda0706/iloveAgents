@@ -235,3 +235,5 @@ pull_request_rules:
         message: |
           ⚠️ This branch is out of date with main.
           Please click "Update branch" to sync before merging.
+merge_protections_settings:
+  reporting_method: check-runs
